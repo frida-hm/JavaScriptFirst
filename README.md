@@ -1,2 +1,2 @@
 # JavaScriptFirst
-JavaScript First Study
+JavaScript Study
